@@ -1,0 +1,37 @@
+[
+  {
+    "primary": true,
+    "title": "Primary button",
+    "message": "You clicked the primary button"
+  },
+  {
+    "secondary": true,
+    "title": "Secondary button",
+    "message": "You clicked the secondary button"
+  },
+  {
+    "success": true,
+    "title": "Success button",
+    "message": "You clicked the success button"
+  },
+  {
+    "danger": true,
+    "title": "Danger button",
+    "message": "You clicked the danger button"
+  },
+  {
+    "warning": true,
+    "title": "Warning button",
+    "message": "You clicked the warning button"
+  },
+  {
+    "info": true,
+    "title": "Info button",
+    "message": "You clicked the info button"
+  },
+  {
+    "light": true,
+    "title": "Light button",
+    "message": "You clicked the light button"
+  }
+]
