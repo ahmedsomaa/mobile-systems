@@ -2,7 +2,7 @@
 
 A simple app to A simple app to retrieve data from a remote API.
 
-## Setup guide
+## How to use ?
 
 - Run `npm install`.
 - Open you andorid or iOS simulator.
@@ -12,4 +12,3 @@ A simple app to A simple app to retrieve data from a remote API.
 ## Demo
 
 https://user-images.githubusercontent.com/29373629/200148314-1cc65e05-f74d-4057-a87f-34634b0eb33c.mp4
-

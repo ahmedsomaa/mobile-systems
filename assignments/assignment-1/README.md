@@ -2,7 +2,7 @@
 
 A simple app to navigate between two screen using [Bottom Tabs Navigator](https://reactnavigation.org/docs/bottom-tab-navigator).
 
-## Setup guide
+## How to use ?
 
 - Run `npm install`.
 - Open you andorid or iOS simulator.

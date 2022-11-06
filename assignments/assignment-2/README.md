@@ -2,7 +2,7 @@
 
 A simple app to use a [WebView](https://github.com/react-native-webview/react-native-webview) to embed external websites.
 
-## Setup guide
+## How to use ?
 
 - Run `npm install`.
 - Open you andorid or iOS simulator.
