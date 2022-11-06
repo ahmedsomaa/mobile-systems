@@ -1,6 +1,6 @@
 # Assigment 3
 
-A simple app to A simple app to retrieve data from a remote API.
+A simple app to retrieve data from a remote API.
 
 ## How to use ?
 
