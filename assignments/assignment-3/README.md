@@ -1,4 +1,4 @@
-# Assigment 2
+# Assigment 3
 
 A simple app to A simple app to retrieve data from a remote API.
 
