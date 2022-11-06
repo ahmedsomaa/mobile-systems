@@ -10,3 +10,6 @@ A simple app to A simple app to retrieve data from a remote API.
 - The metro bundler will open in the browser, choose run on android or iOS.
 
 ## Demo
+
+https://user-images.githubusercontent.com/29373629/200148314-1cc65e05-f74d-4057-a87f-34634b0eb33c.mp4
+
