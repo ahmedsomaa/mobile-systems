@@ -11,3 +11,5 @@ A simple app to create an audio player.
 
 ## Demo
 
+https://user-images.githubusercontent.com/29373629/201154444-d9175844-3dfe-4320-8326-46e6b184c8d8.mp4
+
