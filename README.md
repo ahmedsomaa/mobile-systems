@@ -25,3 +25,5 @@ A repo for Arizona State University SER 423 Mobile Systems Class Exercises & Ass
    2.2 [Assignment 2](./assignments/assignment-2/README.md) - A simple app to use a WebView to embed external websites.
 
    2.3 [Assignment 3](./assignments/assignment-3/README.md) - A simple app to retrieve data from a remote API.
+
+   2.4 [Assignment 4](./assignments/assignment-4/README.md) - A simple app to create an audio player.
