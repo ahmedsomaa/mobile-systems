@@ -22,6 +22,6 @@ A repo for Arizona State University SER 423 Mobile Systems Class Exercises & Ass
 
    2.1 [Assignment 1](./assignments/assignment-1/README.md) - A simple app to navigate between two screen using Bottom Tabs Navigator.
 
-   2.2. [Assignment 2](./assignments/assignment-2/README.md) - A simple app to use a WebView to embed external websites.
+   2.2 [Assignment 2](./assignments/assignment-2/README.md) - A simple app to use a WebView to embed external websites.
 
    2.3 [Assignment 3](./assignments/assignment-3/README.md) - A simple app to retrieve data from a remote API.
