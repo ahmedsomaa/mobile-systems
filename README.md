@@ -16,7 +16,7 @@ A repo for Arizona State University SER 423 Mobile Systems Class Exercises & Ass
 
    1.3 [Exercise 3](./exercises//exercise-3/README.md) - A simple app to retrieve data from a remote API.
 
-   1.4 [Exercise 4](./exercises//exercise-4/README.md) - A simple app to store and retrieve data locally using AsyncStorage
+   1.4 [Exercise 4](./exercises//exercise-4/README.md) - A simple app to store and retrieve data locally using AsyncStorage.
 
 2. **Assignments**
 
