@@ -18,6 +18,8 @@ A repo for Arizona State University SER 423 Mobile Systems Class Exercises & Ass
 
    1.4 [Exercise 4](./exercises//exercise-4/README.md) - A simple app to store and retrieve data locally using AsyncStorage.
 
+   1.5 [Exercise 5](./exercises//exercise-5/README.md) - A simple app to create a map app.
+
 2. **Assignments**
 
    2.1 [Assignment 1](./assignments/assignment-1/README.md) - A simple app to navigate between two screen using Bottom Tabs Navigator.
