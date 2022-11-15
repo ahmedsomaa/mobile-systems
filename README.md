@@ -29,3 +29,5 @@ A repo for Arizona State University SER 423 Mobile Systems Class Exercises & Ass
    2.3 [Assignment 3](./assignments/assignment-3/README.md) - A simple app to retrieve data from a remote API.
 
    2.4 [Assignment 4](./assignments/assignment-4/README.md) - A simple app to create an audio player.
+
+   2.5 [Assignment 5](./assignments/assignment-5/README.md) - A simple app to create a map app with animated notification.
