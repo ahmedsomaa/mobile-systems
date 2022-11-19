@@ -39,7 +39,6 @@ class Album extends Component {
         <Text style={styles.toolbar}>Album</Text>
         <Text style={styles.log}>{JSON.stringify(this.state.log, null, 2)}</Text>
         <ScrollView>
-          {/* <Text>{JSON.stringify(this.state.log, null, 2)}</Text> */}
           <View style={styles.imageContainer}>
             <TouchableOpacity style={styles.button} onPress={this.addPhoto}>
               <Text style={styles.buttonText}>Add Photo</Text>
