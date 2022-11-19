@@ -20,6 +20,8 @@ A repo for Arizona State University SER 423 Mobile Systems Class Exercises & Ass
 
    1.5 [Exercise 5](./exercises//exercise-5/README.md) - A simple app to create a map app.
 
+   1.6 [Exercise 6](./exercises//exercise-6/README.md) - A simple app to create an image album app using redux.
+
 2. **Assignments**
 
    2.1 [Assignment 1](./assignments/assignment-1/README.md) - A simple app to navigate between two screen using Bottom Tabs Navigator.
