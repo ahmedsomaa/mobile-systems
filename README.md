@@ -39,4 +39,6 @@ A repo for Arizona State University SER 423 Mobile Systems Class Exercises & Ass
    2.5 [Assignment 5](./assignments/assignment-5/README.md) - A simple app to create a map app with animated
    notification.
 
-   2.6 [Assignment 6](./assignments//assignment-6/README.md) - A simple app to add dynamic images using redux.
+   2.6 [Assignment 6](./assignments/assignment-6/README.md) - A simple app to add dynamic images using redux.
+
+   2.7 [Assignment 7](./assignments/assignment-7/README.md) - A simple app to expose custome android native modules.
