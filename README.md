@@ -22,6 +22,9 @@ A repo for Arizona State University SER 423 Mobile Systems Class Exercises & Ass
 
    1.6 [Exercise 6](./exercises//exercise-6/README.md) - A simple app to create an image album app using redux.
 
+   1.7 [Exercise 7](./exercises/exercise-7/README.md) - A simple exercise to determine the running time of two provided
+   functions.
+
 2. **Assignments**
 
    2.1 [Assignment 1](./assignments/assignment-1/README.md) - A simple app to navigate between two screen using Bottom Tabs Navigator.
