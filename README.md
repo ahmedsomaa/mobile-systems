@@ -27,7 +27,8 @@ A repo for Arizona State University SER 423 Mobile Systems Class Exercises & Ass
 
 2. **Assignments**
 
-   2.1 [Assignment 1](./assignments/assignment-1/README.md) - A simple app to navigate between two screen using Bottom Tabs Navigator.
+   2.1 [Assignment 1](./assignments/assignment-1/README.md) - A simple app to navigate between two screen using Bottom
+   Tabs Navigator.
 
    2.2 [Assignment 2](./assignments/assignment-2/README.md) - A simple app to use a WebView to embed external websites.
 
@@ -35,4 +36,7 @@ A repo for Arizona State University SER 423 Mobile Systems Class Exercises & Ass
 
    2.4 [Assignment 4](./assignments/assignment-4/README.md) - A simple app to create an audio player.
 
-   2.5 [Assignment 5](./assignments/assignment-5/README.md) - A simple app to create a map app with animated notification.
+   2.5 [Assignment 5](./assignments/assignment-5/README.md) - A simple app to create a map app with animated
+   notification.
+
+   2.6 [Assignment 6](./assignments//assignment-6/README.md) - A simple app to add dynamic images using redux.
