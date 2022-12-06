@@ -11,3 +11,6 @@ A simple app to expose custome android native modules.
 - Open the app on your device, and choose Enter URL manually. Then, provide the link the metro bundler is running on.
 
 ## Demo
+
+https://user-images.githubusercontent.com/29373629/205890101-56993f36-855d-4570-b18c-a33d82db88e4.mp4
+
