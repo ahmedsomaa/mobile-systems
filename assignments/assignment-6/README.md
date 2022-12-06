@@ -10,3 +10,6 @@ A simple app to add dynamic images using redux.
 - The metro bundler will open in the browser, choose run on android or iOS.
 
 ## Demo
+
+https://user-images.githubusercontent.com/29373629/205888728-500b5fb5-5c8d-4567-918a-73322c39f8ca.mp4
+
