@@ -1,6 +1,6 @@
 # Assignemnt 7
 
-A simple app to expose custome android native modules.
+A simple app to expose custom android native modules.
 
 ## How to use ?
 
