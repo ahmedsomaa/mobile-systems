@@ -1,5 +1,5 @@
 # Exercise 7
 
-A simple exercise to determine the running time of two provided functions.
+A simple exercise to measure the running time of two provided JavaScript functions.
 
 
